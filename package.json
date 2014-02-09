@@ -1,0 +1,12 @@
+{
+  "name": "fivegraph",
+  "description": "fivegraph test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "xmlbuilder": "2.x",
+    "js2xmlparser": "0.1.x"
+    
+  }
+}
